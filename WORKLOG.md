@@ -5,6 +5,12 @@ Install Etcher (https://www.balena.io/etcher/) on laptop (laptop is my Windows P
 
 Download lite version of raspbian from https://www.raspberrypi.org/downloads/raspbian/ - Raspbian Buster Lite
 
+### Main card
 Flash image onto 16Gb SDHC card with Etcher.
+
+Add empty ssh file onto newly flashed card (will provide ssh access)
+
+### Each slave card
+Flash image onto 32Gb SDHC card with Etcher.
 
 Add empty ssh file onto newly flashed card (will provide ssh access)
